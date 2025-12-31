@@ -1,4 +1,4 @@
-![ logo ](https://github.com/RahatMurshed/RahatMurshed/blob/main/Banner2.png)
+![ logo ](https://github.com/RahatMurshed/RahatMurshed/blob/main/Banner (2).png)
 <h2 align="left">About Me</h2>
 <p align="left">I am a junior MERN stack developer who enjoys building simple and useful web applications. I work with HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I focus on clean UI and practical full-stack features. I like solving my everyday problems through software and creating tools that make tasks easier. I enjoy learning new technologies, improving my skills, and building projects that help me grow as a developer. I am also exploring remote opportunities and real-world project experience.</p>
 
