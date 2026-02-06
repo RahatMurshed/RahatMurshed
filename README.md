@@ -2,7 +2,7 @@
 <h2 align="left">About Me</h2>
 <p align="left">I am a junior MERN stack developer who enjoys building simple and useful web applications. I work with HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I focus on clean UI and practical full-stack features. I like solving my everyday problems through software and creating tools that make tasks easier. I enjoy learning new technologies, improving my skills, and building projects that help me grow as a developer. I am also exploring remote opportunities and real-world project experience.</p>
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatmurshed&label=Profile%20views&color=0e75b6&style=flat" alt="rahatmurshed" /> </p>
