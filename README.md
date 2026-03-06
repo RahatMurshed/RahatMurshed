@@ -83,6 +83,8 @@ If you have something interesting to build, I'd love to hear about it.
 
 <div align="center">
 
+<div align="center">
+
 ### ◈ Featured Work
 
 </div>
@@ -110,20 +112,20 @@ Audit logging · Multi-organization support
 </td>
 <td align="center" width="50%">
 
-#### 📚 Scholar Stream
-**Scholarship management platform**
-with role-based dashboards
+#### 🧠 Lavel
+**AI-powered behavioral OS**
+for identity-driven consistency
 
-Student applications · Admin reviews
-Stripe payments · Firebase auth
-Full MERN architecture
+Identity engine · Adaptive planning
+Friction analysis · Consistency scoring
+AI Mirror · Momentum tracking
 
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-[![Client](https://img.shields.io/badge/Client_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahatMurshed/Scholar-stream-client)
-[![Server](https://img.shields.io/badge/Server_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahatMurshed/Scholar-stream-server)
+[![Repo](https://img.shields.io/badge/Repository-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahatMurshed/Lavel---Be-consistent)
+[![Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://lavel.lovable.app)
 
 </td>
 </tr>
