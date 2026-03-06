@@ -32,16 +32,9 @@
 <div align="center">
 
 ---
-
-Hey, I'm Rahat. I'm a full-stack engineer from Sylhet, Bangladesh, and I build web apps that people actually use.
-
-I started coding because I wanted to fix problems I ran into in real life. That's still why I do it. I care a lot about how software feels, not just whether it runs. Clean UI, solid architecture, and features that earn their spot in the codebase.
-
-I work in the vibe coding era and I embrace it fully. AI-assisted, human-directed, shipped fast. I know what I'm asking for, I can tell when the output is wrong, and I understand the code that gets committed. The tools changed. The thinking didn't.
-
-So far I've shipped a multi-tenant financial platform for educational institutions, a scholarship management system with Stripe and Firebase, and a bunch of tools built to last. My stack is MERN plus TypeScript and Supabase, and I'm going deep on Next.js right now.
-
-If the problem is interesting and the team is serious, I'd love to hear about it.
+Hey, I'm Rahat. Full-stack engineer from Sylhet, Bangladesh.
+I build things that solve real problems. I care about how software feels, not just whether it works. I've shipped a financial platform for schools, a scholarship management system, and a few other tools people actually use. My stack is MERN plus TypeScript and Supabase. Currently going deep on Next.js.
+If you have something interesting to build, I'd love to hear about it.
 
 ---
 
