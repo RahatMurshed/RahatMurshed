@@ -3,12 +3,12 @@
 ---
 
 ```
-██████╗  █████╗ ██╗  ██╗ █████╗ ████████╗    ███╗   ███╗██╗   ██╗██████╗ ███████╗██╗  ██╗███████╗██████╗
-██╔══██╗██╔══██╗██║  ██║██╔══██╗╚══██╔══╝    ████╗ ████║██║   ██║██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗
-██████╔╝███████║███████║███████║   ██║       ██╔████╔██║██║   ██║██████╔╝███████╗███████║█████╗  ██║  ██║
-██╔══██╗██╔══██║██╔══██║██╔══██║   ██║       ██║╚██╔╝██║██║   ██║██╔══██╗╚════██║██╔══██║██╔══╝  ██║  ██║
-██║  ██║██║  ██║██║  ██║██║  ██║   ██║       ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████║██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝
+██████╗  █████╗ ██╗  ██╗ █████╗ ████████╗   ███╗   ███╗██╗   ██╗██████╗ ███████╗██╗  ██╗███████╗██████╗
+██╔══██╗██╔══██╗██║  ██║██╔══██╗╚══██╔══╝   ████╗ ████║██║   ██║██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗
+██████╔╝███████║███████║███████║   ██║      ██╔████╔██║██║   ██║██████╔╝███████╗███████║█████╗  ██║  ██║
+██╔══██╗██╔══██║██╔══██║██╔══██║   ██║      ██║╚██╔╝██║██║   ██║██╔══██╗╚════██║██╔══██║██╔══╝  ██║  ██║
+██║  ██║██║  ██║██║  ██║██║  ██║   ██║      ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████║██║  ██║███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝
 ```
 
 ---
@@ -19,7 +19,7 @@
 <!-- Animated typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&width=700&lines=Building+real+tools+for+real+problems.;MERN+%7C+TypeScript+%7C+Supabase+%7C+React;Open+to+remote+opportunities.;Clean+UI.+Practical+features.+Solid+code." alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <!-- Contact row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahatmurshed)
@@ -29,43 +29,27 @@
 
 </div>
 
-<br/>
-
-
-
 <div align="center">
 
-### ◈ Who Am I?
+---
 
-</div>
+Hey, I'm Rahat. I'm a full-stack engineer from Sylhet, Bangladesh, and I build web apps that people actually use.
 
-```js
-const rahat = {
-  name       : "Rahat Murshed",
-  title      : "Junior MERN Stack Developer",
-  location   : "Sylhet, Bangladesh  🌿",
-  languages  : ["JavaScript", "TypeScript"],
-  stack      : ["React", "Node.js", "Express", "MongoDB", "Supabase", "Firebase"],
-  learning   : "Next.js",
-  focus      : "Building functional systems with clean UI and real-world impact",
-  available  : true,   // ← open to remote opportunities
-  contact    : "rahatmurshedtapader@gmail.com",
-};
-```
+I started coding because I wanted to fix problems I ran into in real life. That's still why I do it. I care a lot about how software feels, not just whether it runs. Clean UI, solid architecture, and features that earn their spot in the codebase.
 
-> *"I like solving my everyday problems through software and creating tools that make tasks easier."*
+I work in the vibe coding era and I embrace it fully. AI-assisted, human-directed, shipped fast. I know what I'm asking for, I can tell when the output is wrong, and I understand the code that gets committed. The tools changed. The thinking didn't.
 
-<br/>
+So far I've shipped a multi-tenant financial platform for educational institutions, a scholarship management system with Stripe and Firebase, and a bunch of tools built to last. My stack is MERN plus TypeScript and Supabase, and I'm going deep on Next.js right now.
+
+If the problem is interesting and the team is serious, I'd love to hear about it.
 
 ---
 
 <div align="center">
 
-### ◈ Arsenal
-
-</div>
-
-<div align="center">
+```
+  ░▒▓█  A R S E N A L  █▓▒░
+```
 
 **— Frontend —**
 
@@ -91,9 +75,16 @@ const rahat = {
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+**— AI Tools —**
+
+![Claude](https://img.shields.io/badge/Claude-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/%E2%99%A5%20Lovable-%23F97316.svg?style=for-the-badge&logoColor=white)
+![v0](https://img.shields.io/badge/v0-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
-<br/>
+<div align="center">
 
 ---
 
