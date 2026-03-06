@@ -1,11 +1,18 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RAHAT%20MURSHED&fontSize=60&fontColor=F97316&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%94%20Sylhet%2C%20Bangladesh&descAlignY=58&descSize=16&descColor=a0a0b0&animation=fadeIn" />
+---
 
-</div>
+```
+██████╗  █████╗ ██╗  ██╗ █████╗ ████████╗    ███╗   ███╗██╗   ██╗██████╗ ███████╗██╗  ██╗███████╗██████╗
+██╔══██╗██╔══██╗██║  ██║██╔══██╗╚══██╔══╝    ████╗ ████║██║   ██║██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗
+██████╔╝███████║███████║███████║   ██║       ██╔████╔██║██║   ██║██████╔╝███████╗███████║█████╗  ██║  ██║
+██╔══██╗██╔══██║██╔══██║██╔══██║   ██║       ██║╚██╔╝██║██║   ██║██╔══██╗╚════██║██╔══██║██╔══╝  ██║  ██║
+██║  ██║██║  ██║██║  ██║██║  ██║   ██║       ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████║██║  ██║███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝
+```
 
 ---
+
 
 <div align="center">
 
@@ -24,18 +31,7 @@
 
 <br/>
 
----
 
-```
-██████╗  █████╗ ██╗  ██╗ █████╗ ████████╗    ███╗   ███╗██╗   ██╗██████╗ ███████╗██╗  ██╗███████╗██████╗
-██╔══██╗██╔══██╗██║  ██║██╔══██╗╚══██╔══╝    ████╗ ████║██║   ██║██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗
-██████╔╝███████║███████║███████║   ██║       ██╔████╔██║██║   ██║██████╔╝███████╗███████║█████╗  ██║  ██║
-██╔══██╗██╔══██║██╔══██║██╔══██║   ██║       ██║╚██╔╝██║██║   ██║██╔══██╗╚════██║██╔══██║██╔══╝  ██║  ██║
-██║  ██║██║  ██║██║  ██║██║  ██║   ██║       ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████║██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝
-```
-
----
 
 <div align="center">
 
@@ -156,19 +152,6 @@ Full MERN architecture
 
 <div align="center">
 
-### ◈ Numbers
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RahatMurshed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F97316&icon_color=F97316&text_color=a0a0b0&bg_color=0d1117" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatMurshed&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316&text_color=a0a0b0&bg_color=0d1117" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=RahatMurshed&theme=tokyonight&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=0d1117&sideLabels=a0a0b0&dates=a0a0b0" />
-
-</div>
 
 <br/>
 
