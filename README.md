@@ -22,9 +22,9 @@
 <br/>
 
 <!-- Contact row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahatmurshed)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahatmurshedtapader@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F97316.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahat-murshed/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWstzVwlSMzmFVCpgNMZwRkqggkCqwJwSZCGphQpmgtkTZhxCPLSpRXhvlSvHqZjvWbpsPVXL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F97316.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rahat-portfolio-2026.web.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=RahatMurshed&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)](https://github.com/RahatMurshed)
 
 </div>
